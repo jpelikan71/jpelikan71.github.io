@@ -3,10 +3,10 @@ main:
   - title: "Articles,publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Research projects"
     url: /talks/    
     
-  - title: "Projects"
+  - title: "Applied area projects"
     url: /portfolio/
         
   - title: "Blog Posts"
