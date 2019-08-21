@@ -9,51 +9,52 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Early years
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+I'v been studied in Moscow State forestrey University, 
+Department of electronics and systems technology, 
+which prepared stuff for nearby space industry in Russian space center in Korolev city.
+There I've received my Ph.D for the Thesis about methods of processing of satellite imagery containing objects with anomalies.
 
-Work experience
+Work experience in industry
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+I spent several years working in the area of R&D and consulting in IT, developing information systems projects 
+for engineering and R&D companies (systems for modelling, automatic measurement, testing...).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+R&D experience
+======
+In 2011 I joined "CTT group" company, partaker of number of interesing R&D projects in such areas as remote sensing; 
+lab experiments measurements processing; engineering systems modelling and testing...
+
+Current work requires elaborating new algorithms and technologies, so I need to nave a strong theoretical background 
+in the area of complex data processing.
+
+So, last years I'm working with strong cooperation with Artificial Intelligence Research Centre of Program Systems Institute of Russian Academy of Siences (Pereslavl).
   
-Skills
+Skills: theory
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Algorithms, principles of analisys & processing:
+  * Image Processing & Computer Vision
+  * Signal Processing, Digital Filtering
+* Data Leaning algorithms, principles, models (classics, neural networks)
+* Dynamical systems computer modelling
+* Random Processes analisys&modelling
 
-Publications
+Skills: practice
 ======
+* Python
+* C/C++ 
+* some Matlab
+
+Publications (to be completed)
+======
+S. V. Paramonov, “Pseudo-random sequences identification by probability distribution moments”, Program Systems: Theory and Applications, 9:3 (2018), 3–9
+http://psta.psiras.ru/read/psta2018_3_3-9.pdf 
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+    
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently
