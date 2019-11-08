@@ -29,7 +29,7 @@ lab experiments measurements processing; engineering systems modelling and testi
 Current work requires elaborating new algorithms and technologies, so I need to nave a strong theoretical background 
 in the area of complex data processing.
 
-So, last years I'm working with strong cooperation with Artificial Intelligence Research Centre of Program Systems Institute of Russian Academy of Siences (Pereslavl).
+So, last years I'm working with strong cooperation with Artificial Intelligence Research Center of Program Systems Institute of Russian Academy of Siences (Pereslavl).
   
 Skills: theory
 ======
@@ -54,7 +54,3 @@ http://psta.psiras.ru/read/psta2018_3_3-9.pdf
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-    
-Service and leadership
-======
-* Currently
