@@ -26,7 +26,7 @@ Modelling some matter with Data Learning methods is based, in fact, on modelling
 
 Applications
 ======
-*All theory, dear friend, is grey, but the golden tree of actual life springs ever green*
+*All theory, dear friend, is grey, but the golden tree of actual life springs ever green*.
 What really practical one can do with all that machunery right now?
 Let's try some things that would be really joyfull.
 
