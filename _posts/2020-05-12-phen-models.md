@@ -39,12 +39,14 @@ A popular area of machine learning can also be considered a phenomenological mod
 It makes no sense to once again describe the classification and applied value of the developed machine learning algorithms, their advantages and disadvantages - all this stuff can be found in a huge variety of popular and scientific articles, lectures and courses. The most interesting are the following aspects of machine learning based phenomenological models of complex systems:
 
 **1. Reproduction of the structural features of the simulated system**
+
 Obviously, a trained ML-system in some form captures the relationship between the initial parameters, forming an “image” of the 
 structure of the simulated system. The quality of the obtained “image of the structure” can be estimated by the following parameters:
 + The accuracy of the reproduction of the model output values  (compared with the "reference" values obtained empirically).
 + The limits of applicability of the model. With some inputs, the model can give much higher accuracy than with others. In particular, an unsuccessful learning strategy that leads to “overfitting” greatly worsens the quality of the model.
 
 **2. Generative properties**
+
 If a trained system model is provided with new input data that did not exist in the training set, new output data of the system can be obtained (for example, a new type of system state or a new system dynamics). These data will not be empirical, but modeled. If the input data initially have physical meaning (that is, they could be real), this makes it possible to obtain new, original states of this system, and possibly to obtain some of its new properties.
 As an example of a computer implementation, we can cite the GANs that are now very popular, capable of generating, in particular, quite realistic implementations of various images, as well as, for example, people's voices, modifications to the form and shape of three-dimensional objects, etc.
 To use the generative properties of ML-systems, you need to know the answers to the following questions:
@@ -52,6 +54,7 @@ To use the generative properties of ML-systems, you need to know the answers to 
 + _What input parameters make the simulation realistic?_**
 
 **3. Improving the quality of simulated dependencies by noise reduction**
+
 If the ML model really contains the structure of the simulated system, then we have the opportunity to separate the “superimposed” 
 structural elements and / or system dynamics trajectories that are not inherent to this system. In particular, this may 
 be a “measuring” noise that appears when metering the values of empirical parameters. It can be assumed that, after those 
@@ -59,11 +62,13 @@ be a “measuring” noise that appears when metering the values of empirical pa
 important for the analysis of the system under study.
 
 **4. Hierarchy of structure**
+
 As a rule, any system considered “complex” has the property of “hierarchy”, that is, consists of several subsystems subordinate to each other. A good example is, for example, a protein molecule having several levels of structure. The lower levels in a sense “delegate” a number of properties to the following levels, determining their formation. As a result, the resulting structure of the protein molecule receives a certain set of properties that determine the possibility of interaction with other biochemical elements.
 The hierarchical property, at the same time, can be observed in the architecture of multilayer neural networks (Deep neural networks), or Deep Learning systems. Such systems show high efficiency, for example, in the analysis of images during solving recognition problems. You can see how in such a network each layer (or a set of layers) solves the problem of image analysis at each hierarchy level, in approximate accordance with the hierarchy of the elements composing the image, and taking into account the interconnections between the levels.
 The conclusion is that taking into account the hierarchy of the simulated system is important. Is it possible that evaluating the quality of a system model at each individual level of its hierarchy will significantly improve the quality of the model as a whole?
 
 **5. Determinism, noise and chaos**
+
 In the case when we do not know system parameters functional interconnection, we can describe the current state of system parameters 
 and their changes by probability distributions. In particular, when building a prediction of the dynamics of the system, 
 the predicted value is determined as the most probable estimation, in accordance with the law of the probability distribution. 
@@ -75,6 +80,7 @@ In case we try to simulate random noise, the model will fail. At the same time, 
 How can one determine what type of process takes place in the case under study:  noisy, chaotic, or complex mixture of several stable dynamic trajectories? Is there exist in nature other kinds of processes that are none of above?
 
 **6. System analysis and control parameters determination**
+
 A phenomenological model built on machine learning algorithms is not supposed to be built on the basis of real natural laws linking its main parameters. Nevertheless, if, as we believe, our model was able to form an “image of the structure” of the system under study, there is a potential opportunity to establish the relationship of this structure with real physical dependencies forming  the system.  In other words, we can try to connect the real physical parameters that determine the "nature" of the system with a set of parameters that are the "settings" of the phenomenological model. Thus, we will be able to analyze the behavior of the system under various conditions and the ability to control its behavior.
 
 ### Summary
