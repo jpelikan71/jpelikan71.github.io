@@ -23,13 +23,10 @@ for engineering and R&D companies (systems for modelling, automatic measurement,
 
 ### R&D experience
 
-In 2011 I joined "CTT group" company, partaker of number of interesing R&D projects in such areas as remote sensing; 
-lab experiments measurements processing; engineering systems modelling and testing...
+Trying to go deeper in theory of new algorithms and technologies of complex data processing , I'm trying to be involved in interesting research projects which leads to new results and articles. As a researcher I joined a lab in well-known Dorodnicyn Computing Centre
+of RAS.
 
-Current work requires elaborating new algorithms and technologies, so I need to nave a strong theoretical background 
-in the area of complex data processing.
-
-So, last years I'm working with strong cooperation with Artificial Intelligence Research Center of Program Systems Institute of Russian Academy of Siences (Pereslavl).
+For practice in applied areas, in 2011 I joined "CTT group" company, partaker of number of interesing R&D projects in such areas as remote sensing; lab experiments measurements processing; engineering systems modelling and testing etc. 
   
 ### Skills: theory
 
