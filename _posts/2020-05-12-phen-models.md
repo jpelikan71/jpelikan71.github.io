@@ -21,6 +21,7 @@ taken into account. The randomness factor may emerge be due to the following rea
 + random external influences and noises;
 + measurement errors, noise in measuring systems;
 + the random nature of changes in system parameters, for example, in the initial positions of the interacting elements of the system.
+
 The randomness factor may be involved in system model by using probability distributions for parameters with random nature influences. Depending on the importance of the system parameters, randomly varying values can either be filtered out or evaluated further in the framework of a certain probabilistic model.
 The generated mechanistic model of the system can be implemented in the form of numerical calculation algorithms for further computer calculations.
 The described approach to creating a system model can be called "classic." The created model can be assessed for accuracy of matching with a real system by comparing model and actual data; also it may be determined within which parameters boundaries this model is most reliable.
