@@ -47,7 +47,7 @@ So, last years I'm working with strong cooperation with Artificial Intelligence 
 * some Matlab
 
 ### Publications (to be completed)
-======
+
 S. V. Paramonov, “Pseudo-random sequences identification by probability distribution moments”, Program Systems: Theory and Applications, 9:3 (2018), 3–9
 http://psta.psiras.ru/read/psta2018_3_3-9.pdf 
 
