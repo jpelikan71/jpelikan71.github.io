@@ -16,11 +16,6 @@ Department of electronics and systems technology,
 which prepared stuff for nearby space industry in Russian space center in Korolev city.
 There I've received my Ph.D for the Thesis about methods of processing of satellite imagery containing objects with anomalies.
 
-### Working experience in industry
-
-I spent several years working in the area of R&D and consulting in IT, developing information systems projects 
-for engineering and R&D companies (systems for modelling, automatic measurement, testing...).
-
 ### R&D experience
 
 Trying to go deeper in theory of new algorithms and technologies of complex data processing , I'm trying to be involved in interesting research projects which leads to new results and articles. As a researcher I joined a lab in well-known Dorodnicyn Computing Centre
