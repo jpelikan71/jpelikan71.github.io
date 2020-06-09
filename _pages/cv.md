@@ -40,9 +40,6 @@ For practice in applied areas, in 2011 I joined "CTT group" company, partaker of
 
 ### Publications (to be completed)
 
-S. V. Paramonov, “Pseudo-random sequences identification by probability distribution moments”, Program Systems: Theory and Applications, 9:3 (2018), 3–9
-http://psta.psiras.ru/read/psta2018_3_3-9.pdf 
-
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
